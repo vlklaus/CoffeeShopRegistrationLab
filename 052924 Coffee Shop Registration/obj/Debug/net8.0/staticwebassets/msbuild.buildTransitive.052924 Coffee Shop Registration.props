@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\052924 Coffee Shop Registration.props" />
+</Project>

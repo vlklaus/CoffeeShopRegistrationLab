@@ -1,0 +1,30 @@
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\bin\Debug\net8.0\appsettings.json
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\bin\Debug\net8.0\052924 Coffee Shop Registration.staticwebassets.runtime.json
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\bin\Debug\net8.0\052924 Coffee Shop Registration.exe
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\bin\Debug\net8.0\052924 Coffee Shop Registration.deps.json
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\bin\Debug\net8.0\052924 Coffee Shop Registration.runtimeconfig.json
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\bin\Debug\net8.0\052924 Coffee Shop Registration.dll
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\bin\Debug\net8.0\052924 Coffee Shop Registration.pdb
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.RazorAssemblyInfo.cache
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.RazorAssemblyInfo.cs
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\staticwebassets\msbuild.052924 Coffee Shop Registration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\staticwebassets\msbuild.build.052924 Coffee Shop Registration.props
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.052924 Coffee Shop Registration.props
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.052924 Coffee Shop Registration.props
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\scopedcss\bundle\052924 Coffee Shop Registration.styles.css
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\scopedcss\projectbundle\052924 Coffee Shop Registration.bundle.scp.css
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.dll
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\refint\052924 Coffee Shop Registration.dll
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.pdb
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\052924 Coffee Shop Registration.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\052924 Coffee Shop Registration\052924 Coffee Shop Registration\obj\Debug\net8.0\ref\052924 Coffee Shop Registration.dll
